@@ -33,7 +33,7 @@ def c():
     return False
 
 def t():
-    return 2
+    return 1/0
 
 def f():
     return 1
